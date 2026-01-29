@@ -1,6 +1,6 @@
 # Yak Robotics Garage - Robotics tinkering for everyone
 
-The [Yak Robotics Garage](https://www.yakcollective.org/projects/yarg.html) is an informal robotics research group with a relatively mature focus on rovers, with an aspirational goal of deploying open-source rovers on Mars, starting with rovers in living rooms on Earth. In 2024, we are starting to explore other verticals besides rovers. (Read more [here](https://www.yakcollective.org/projects/yarg.html))
+The [Yak Robotics Garage](https://www.yakcollective.org/study-groups/yak-robotics-garage) is an informal robotics research group with a relatively mature focus on rovers, with an aspirational goal of deploying open-source rovers on Mars, starting with rovers in living rooms on Earth. In 2024, we are starting to explore other verticals besides rovers. (Read more [here](https://www.yakcollective.org/study-groups/yak-robotics-garage))
 
 ## Join
 
